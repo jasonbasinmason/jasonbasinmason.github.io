@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <description></description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 14 Nov 2014 22:15:53 +0000</pubDate>
+    <lastBuildDate>Fri, 14 Nov 2014 22:15:53 +0000</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>And So It Begins</title>
+        <description>&lt;p&gt;I’m going to record an album of my songs, played by me. 
+It’s something I only recently realised I wanted to do,
+but really, I know I’ve always quite fancied it. 
+I just assumed I wouldn’t be able to find the time,
+and really, who am I to be recording an album?
+Well, I’m me. And I’m jolly well going to.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 14 Nov 2014 00:00:00 +0000</pubDate>
+        <link>/2014/11/14/and-so-it-begins.html</link>
+        <guid isPermaLink="true">/2014/11/14/and-so-it-begins.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
