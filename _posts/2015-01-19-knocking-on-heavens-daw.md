@@ -23,5 +23,4 @@ away the bass. I realised I was getting ahead of myself; too eager to get going,
 works. I've found a video tutorial series that I started watching yesterday, which is great. I've watched 15 so far, and learnt how
 comping works, and loads of other things too, so I'll be much more confident next time. 
 
-<iframe title="YouTube video player" width="480" height="390" 
-src="https://www.youtube.com/playlist?list=PLXmi76euGSyzX8KMPAHJPyOSZy5w4CsV9" frameborder="0" allowfullscreen>< /iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/videoseries?list=PLXmi76euGSyzX8KMPAHJPyOSZy5w4CsV9" frameborder="0" allowfullscreen></iframe>
