@@ -5,7 +5,7 @@ tags:
 ---
 I wanted to do the barest minimum to have a play with recording. I've used GarageBand, as it is installed already.
 
-I recorded an old riff on a mandolin, and copied and pasted it along the whole song.  I recorded the guitar, bass and drums on separate tracks. I did nothing with eq or effects; just chose built-in amps, and turned the volume done on a couple of tracks.
+I recorded an old riff on a mandolin, and copied and pasted it along the whole song.  I recorded the guitar, bass and drums on separate tracks. I did nothing with eq or effects; just chose built-in amps, and turned the volume down on a couple of tracks.
 
 For an hour or so's effort, it's a good starting point. I'll probably use some bits of this for something.
 
