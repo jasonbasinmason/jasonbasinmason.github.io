@@ -14,8 +14,8 @@ tour across South Africa. I've been in a couple of acoustic duets and quartets. 
 However.
 
 I've never gigged alone, and I've never been a lead singer (other than one at a "talent" night at a camp with some friends). 
-I've done a little bit of backing singing, but much, and not that well. 
-One day I'll probably have perform solo, probably with a guitar. It's a scary thought, but probably achievable, since the
+I've done a little bit of backing singing, but not much, and not that well. 
+One day I expect I'll have to perform solo, probably with a guitar. It's a scary thought, but probably achievable, since the
 singing lessons are going well (teach says I'm getting better).
 
 On this album project, there are some milestones along the way: some natural, some deliberate. The first milestone towards the 
@@ -23,9 +23,9 @@ goal of gigging solo is to play three of my own songs at an open mic night. To g
 songs, having first improved my singing. I haven't played at an open mic night in years, so I've decided to go along to a few
 just to watch, be inspired, and meet some new people (another part of promotion, right?).
 
-So last night I went to my first one. I walked in to the back room, which was almost empty. It was daunting, but I was welcomed
-by three friendly musicians and the landlord. About four more people arrived later in the evening, but to start with it was just
-the five of us. 
+So last night I went to my first one. I walked in to the back room of a country pub, which was almost empty. 
+It was daunting, but I was welcomed by three friendly musicians and the landlord. About four more people arrived 
+later in the evening, but to start with it was just the five of us. 
 
 The organiser played a couple of her songs to start with, and is clearly an experienced singer; very relaxed, effortless singing 
 style, followed by a guy with a bit of a husky voice, maybe a little like John Mayer. Enjoyed his songs very much - he played and 
@@ -44,14 +44,14 @@ developer, and I still sometimes feel like an imposter. So to get past this, I'l
 first, and that's what I play best, no point comparing my singing. I can play several instruments. 
 I've written some songs. I've played loads of gigs. I'm funny. I write well. I'm improving every year. I can do this.
 
-I recently saw Idlewild play an acoustic gig in Hove. One of my favourite bands, that I keep coming back to, years on. Towards
+I recently saw Idlewild play an acoustic gig in Hove. They are one of my favourite bands, that I keep coming back to, years on. Towards
 the end of the gig (in which the band swapped instruments a few times), Andrew the bassist took to the piano and sang a song. He had
-an incredible voice, which in an X-Factor setting, would have trumped Roddy Woomble's (Idlewild's lead singer, and yes, it is a 
+an incredible voice, which in an X-Factor setting, would have easily trumped Roddy Woomble's (Idlewild's lead singer, and yes, it is a 
 real name) for quality. After the applause, a well-meaning heckler shouted something like "Watch out Roddy!". Roddy smiled, shrugged,
 and said "It's not a competition, we're a band". One of those moments that stays with me. A wise retort; he's secure knowing his
 place in the band, and comparing individual talent isn't necessary or worth considering. Roddy's voice suits the band, and defines
 it. If Andrew sang their songs, they would have a completely different character.
 
-And so that is with me. I'm not competing with strangers at a rural open mic night. I'm writing my songs, in my style, and I will
-play them and record them how I want to, to the best of my capabilities, and not with the goal of imitating someone, 
-or outdoing anyone else. Just myself. 
+And so that is with me. I'm not competing with strangers at a rural open mic night, I'll be joining them. 
+I'm writing my songs, in my style, and I will play them and record them how I want to, to the best of my capabilities, 
+and not with the goal of imitating someone, or outdoing anyone else. Just myself. 
