@@ -55,3 +55,7 @@ it. If Andrew sang their songs, they would have a completely different character
 And so that is with me. I'm not competing with strangers at a rural open mic night, I'll be joining them. 
 I'm writing my songs, in my style, and I will play them and record them how I want to, to the best of my capabilities, 
 and not with the goal of imitating someone, or outdoing anyone else. Just myself. 
+
+_UPDATE:_ I've just seen Roddy Woomble say pretty much the same thing:
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=SjwOIZkIu5U&feature=youtu.be&t=1m23s" frameborder="0" allowfullscreen></iframe>
