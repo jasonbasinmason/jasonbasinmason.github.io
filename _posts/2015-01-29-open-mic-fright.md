@@ -56,6 +56,6 @@ And so that is with me. I'm not competing with strangers at a rural open mic nig
 I'm writing my songs, in my style, and I will play them and record them how I want to, to the best of my capabilities, 
 and not with the goal of imitating someone, or outdoing anyone else. Just myself. 
 
-_UPDATE:_ I've just seen Roddy Woomble say pretty much the same thing:
+*UPDATE:* I've just seen Roddy Woomble say pretty much the same thing (at 1:23):
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SjwOIZkIu5U?start=83" frameborder="0" allowfullscreen></iframe>
