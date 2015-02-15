@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Starting Another Song
-—
+---
+
 
 *A guitar is rediscovered. I write a familiar song, which once tweaked, is uploaded for preview.*
 
