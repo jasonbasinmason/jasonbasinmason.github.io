@@ -12,7 +12,7 @@ For this journey, however, I wanted my own songs to sing to, for some reasons. F
 
 I’ve got some finished songs, which I want to perfect; to ensure I’ve got the words in right places, I can hit the notes without problems, perfect the vowels, and improve consistency. I’ve got some songs that I want to change some or all of the words to, and some other songs for which I have no words.
 
-<img src=“http://vignette1.wikia.nocookie.net/r2d/images/a/a9/Tumblr_lyjnjwIl781qgtp70o1_500.gif/revision/latest?cb=20140809010120” alt=“I have no words” />
+![I have no words](http://vignette1.wikia.nocookie.net/r2d/images/a/a9/Tumblr_lyjnjwIl781qgtp70o1_500.gif/revision/latest?cb=20140809010120)
 
 I’ve been playing that funky riff I uploaded the other day in the car, and come up with some words and a tune for, so it seems driving time is good for songwriting. So this morning I spent a couple of hours recording the barest minimum (i.e. a single, strummed guitar) for all the songs, and put them on my phone (which plugs into the car stereo). 
 
