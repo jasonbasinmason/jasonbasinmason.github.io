@@ -25,6 +25,8 @@ the guitar and banjo middle section, the lead guitar solo, and some pad synths f
 I've bounced it as an mp3 file and put it on my phone, so I can listen to it on the car. A pleasant side-effect of this is that I now have lead vocals playing, I can work out some harmonies and practise them while I drive. When I'm 
 happy with them, I'll add them to the arrangement draft.
 
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/196502972&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+
 The next step for this song is to re-record each track until I can't improve them further. Then I can mix it properly until I have a full demo I'm happy with. 
 
 Sometimes I have only a spare half hour, and I might not be at home, so I'll do whatever I can to work on any of the songs. It might be a simple as writing the lyrics for the first half of the second verse of a song when I'm having my lunch break. 
